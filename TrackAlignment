@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T11:46:06.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="6o4LJOxg5qQRv0oZOk0q" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T11:52:19.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="hxVtbTx9FU20_8sB3OiL" version="13.9.7" type="github">
   <diagram id="T-KIPvXJWZzF712k-QW6" name="Page-1">
     <mxGraphModel dx="1022" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,10 +36,10 @@
         <mxCell id="MOUKZI5eUfG2NlkERo4v-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MOUKZI5eUfG2NlkERo4v-18" target="MOUKZI5eUfG2NlkERo4v-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MOUKZI5eUfG2NlkERo4v-18" value="POST &lt;br&gt;Delete obsolete Horizontal Track Alignment" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
+        <mxCell id="MOUKZI5eUfG2NlkERo4v-18" value="POST &lt;br&gt;Delete Horizontal Track Alignment (become obsolete)" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="350" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MOUKZI5eUfG2NlkERo4v-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MOUKZI5eUfG2NlkERo4v-24" target="MOUKZI5eUfG2NlkERo4v-28">
+        <mxCell id="MOUKZI5eUfG2NlkERo4v-27" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MOUKZI5eUfG2NlkERo4v-24" target="MOUKZI5eUfG2NlkERo4v-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="750" as="targetPoint" />
           </mxGeometry>
@@ -47,14 +47,26 @@
         <mxCell id="MOUKZI5eUfG2NlkERo4v-24" value="Existing Infrastructure?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="220" y="590" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MOUKZI5eUfG2NlkERo4v-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="MOUKZI5eUfG2NlkERo4v-28" value="TERMINATE" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="710" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MOUKZI5eUfG2NlkERo4v-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="MOUKZI5eUfG2NlkERo4v-29" value="START" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="133" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MOUKZI5eUfG2NlkERo4v-35" value="Status:=&quot;NEDLAGT&quot;&lt;br&gt;Location=&quot;&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
-          <mxGeometry x="530" y="600" width="100" height="60" as="geometry" />
+        <mxCell id="MOUKZI5eUfG2NlkERo4v-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOUKZI5eUfG2NlkERo4v-35" target="MOUKZI5eUfG2NlkERo4v-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOUKZI5eUfG2NlkERo4v-35" value="Status:=&quot;NEDLAGT&quot;&lt;br&gt;Location=&quot;9999-9999&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="530" y="600" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MOUKZI5eUfG2NlkERo4v-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MOUKZI5eUfG2NlkERo4v-38" target="MOUKZI5eUfG2NlkERo4v-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOUKZI5eUfG2NlkERo4v-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MOUKZI5eUfG2NlkERo4v-38" target="MOUKZI5eUfG2NlkERo4v-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MOUKZI5eUfG2NlkERo4v-38" value="Status:=&quot;I DRIFT&quot;&lt;br&gt;Location=&quot;xxxx-xxxx&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="497" y="439" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
