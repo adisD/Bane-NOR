@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T17:22:59.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="idZLh2lXOA3vznelkREN" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T17:27:23.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="EGJqiZ4DLYOJwepdFSXU" version="13.10.5" type="github">
   <diagram id="QonFebjFiGpO4gyoCerG" name="Page-1">
     <mxGraphModel dx="1022" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="fTcd86FeP8MM5uf8JZlE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-2" target="fTcd86FeP8MM5uf8JZlE-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTcd86FeP8MM5uf8JZlE-2" value="Motta &lt;br&gt;&amp;lt;&amp;lt;som bygget&amp;gt;&amp;gt; overbygnings fagmodell" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#33FFFF;" vertex="1" parent="1">
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-2" value="Motta &lt;br&gt;overbygnings fagmodell" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#33FFFF;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fTcd86FeP8MM5uf8JZlE-9" value="Nei" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-4" target="fTcd86FeP8MM5uf8JZlE-8">
@@ -98,10 +98,10 @@
         <mxCell id="fTcd86FeP8MM5uf8JZlE-28" value="Oppdater sporets trasé data i BaneData med &amp;lt;&amp;lt;som bygget&amp;gt; beliggenhet" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#33FFFF;" vertex="1" parent="1">
           <mxGeometry x="40" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTcd86FeP8MM5uf8JZlE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-32" target="fTcd86FeP8MM5uf8JZlE-34">
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-40" value="Nei" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-32" target="fTcd86FeP8MM5uf8JZlE-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fTcd86FeP8MM5uf8JZlE-32" value="Sporjustert iht. ny injeberegning?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFD966;" vertex="1" parent="1">
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-32" value="Spor justert iht. ny injeberegning?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFD966;" vertex="1" parent="1">
           <mxGeometry x="60" y="370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fTcd86FeP8MM5uf8JZlE-37" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-34" target="fTcd86FeP8MM5uf8JZlE-36">
