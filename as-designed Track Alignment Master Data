@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T18:09:28.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.5" etag="w_CBzSsBaLqVPx4KebZ3" type="github"><diagram id="G0_n9Kx0QDBRVdDZiPQ-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-01T18:27:55.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="M0cCXhKacjl3ku-vjJJj" version="13.10.5" type="github">
+  <diagram id="G0_n9Kx0QDBRVdDZiPQ-" name="Page-1">
+    <mxGraphModel dx="1022" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2vXiZJAlbC3isU08geUy-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vXiZJAlbC3isU08geUy-1" target="2vXiZJAlbC3isU08geUy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vXiZJAlbC3isU08geUy-2" target="2vXiZJAlbC3isU08geUy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-2" value="Motta overbygnings fagmodell" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vXiZJAlbC3isU08geUy-4" target="2vXiZJAlbC3isU08geUy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-4" value="&amp;lt;&amp;lt;som planlagt&amp;gt;&amp;gt;&lt;br&gt;overbygning fagmodell" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-11" value="Nei" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vXiZJAlbC3isU08geUy-8" target="2vXiZJAlbC3isU08geUy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-13" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vXiZJAlbC3isU08geUy-8" target="2vXiZJAlbC3isU08geUy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-8" value="Overbygnings objekter registrert i BaneData?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2vXiZJAlbC3isU08geUy-10" target="2vXiZJAlbC3isU08geUy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-10" value="Registering av over-/underbygnings objekter i BaneData" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-12" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vXiZJAlbC3isU08geUy-15" target="2vXiZJAlbC3isU08geUy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2vXiZJAlbC3isU08geUy-15" value="&amp;lt;&amp;lt;som planlagt&amp;gt;&amp;gt;&lt;br&gt;over-/underbygnings objekter" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="600" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
