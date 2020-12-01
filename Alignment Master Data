@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T16:57:14.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.5" etag="jocK2PmY4Xu0jy1Ma2gX" type="github"><diagram id="QonFebjFiGpO4gyoCerG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-01T17:18:11.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="sHjl0Jv5fgE4OocnVVLR" version="13.10.5" type="github">
+  <diagram id="QonFebjFiGpO4gyoCerG" name="Page-1">
+    <mxGraphModel dx="1022" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-1" target="fTcd86FeP8MM5uf8JZlE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-2" target="fTcd86FeP8MM5uf8JZlE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-2" value="Motta &lt;br&gt;&amp;lt;&amp;lt;som bygget&amp;gt;&amp;gt; overbygnings fagmodell" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-9" value="Nei" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-4" target="fTcd86FeP8MM5uf8JZlE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-13" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-4" target="fTcd86FeP8MM5uf8JZlE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-4" value="Modell inneholder linjeberegnings data?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="460" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-11" value="Ja" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-8" target="fTcd86FeP8MM5uf8JZlE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-22" value="Nei" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-8" target="fTcd86FeP8MM5uf8JZlE-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-8" value="Eksisterer det innmålingspunkter for angitt område?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="620" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-10" target="fTcd86FeP8MM5uf8JZlE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-10" value="Suppler&lt;br&gt;spornettverket i modellen med innmålingspunkter" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-12" target="fTcd86FeP8MM5uf8JZlE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-12" value="Suppler sporsegment egenskapsdata med informasjon fra BaneData&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-14" target="fTcd86FeP8MM5uf8JZlE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-14" value="Spornummer&lt;br&gt;Sportype&lt;br&gt;Kilometrering&lt;br&gt;Strekning-delstrekning" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-17" target="fTcd86FeP8MM5uf8JZlE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-17" value="Suppler modellen med infrastruktur objekter" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-19" target="fTcd86FeP8MM5uf8JZlE-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-19" value="KO-SPO&lt;br&gt;KO-SPV" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-21" target="fTcd86FeP8MM5uf8JZlE-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="50" />
+              <mxPoint x="660" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-21" value="Fremskaff digital presentasjon av &amp;lt;&amp;lt;som bygget&amp;gt;&amp;gt; sporets trase" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-24" target="fTcd86FeP8MM5uf8JZlE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-24" value="Innmålingsrapport" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="610" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-29" value="Ja" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-32" target="fTcd86FeP8MM5uf8JZlE-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-33" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTcd86FeP8MM5uf8JZlE-26" target="fTcd86FeP8MM5uf8JZlE-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-26" value="Suppler modell med egenskapsdata knyttet til kvalitet" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-28" value="Oppdater sporets trasé data i BaneData med endringer" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTcd86FeP8MM5uf8JZlE-32" value="Sporjustert iht. ny injeberegning?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
